@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/younes/Desktop/bigDir/open/pcl/pcd_write_test.cpp
+iostream
+-
+pcl/io/pcd_io.h
+-
+pcl/point_types.h
+-
+pcl/common/io.h
+-
+pcl/keypoints/sift_keypoint.h
+-
+pcl/features/normal_3d.h
+-
+

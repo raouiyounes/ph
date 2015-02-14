@@ -1,0 +1,300 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		6BC5D0821930424300FC9CA0 /* #ax11_style.cpp# */ = {isa = PBXFileReference; lastKnownFileType = text; path = "#ax11_style.cpp#"; sourceTree = "<group>"; };
+		6BC5D0831930424300FC9CA0 /* #fusion2.cpp# */ = {isa = PBXFileReference; lastKnownFileType = text; path = "#fusion2.cpp#"; sourceTree = "<group>"; };
+		6BC5D0841930424300FC9CA0 /* #robot.cpp# */ = {isa = PBXFileReference; lastKnownFileType = text; path = "#robot.cpp#"; sourceTree = "<group>"; };
+		6BC5D0851930424300FC9CA0 /* #test.cpp# */ = {isa = PBXFileReference; lastKnownFileType = text; path = "#test.cpp#"; sourceTree = "<group>"; };
+		6BC5D0861930424300FC9CA0 /* #testerMonCode.cpp # */ = {isa = PBXFileReference; lastKnownFileType = text; path = "#testerMonCode.cpp #"; sourceTree = "<group>"; };
+		6BC5D0871930424300FC9CA0 /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = file; path = .DS_Store; sourceTree = "<group>"; };
+		6BC5D0881930424300FC9CA0 /* a.out */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = a.out; sourceTree = "<group>"; };
+		6BC5D0891930424300FC9CA0 /* ax11_style.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ax11_style.cpp; sourceTree = "<group>"; };
+		6BC5D08A1930424300FC9CA0 /* ax11_style.cpp  */ = {isa = PBXFileReference; lastKnownFileType = text; path = "ax11_style.cpp "; sourceTree = "<group>"; };
+		6BC5D08B1930424300FC9CA0 /* ax11_style.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "ax11_style.cpp~"; sourceTree = "<group>"; };
+		6BC5D08C1930424300FC9CA0 /* BagOfFeatures.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = BagOfFeatures.cpp; sourceTree = "<group>"; };
+		6BC5D08D1930424300FC9CA0 /* BagOfFeatures.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BagOfFeatures.h; sourceTree = "<group>"; };
+		6BC5D08E1930424300FC9CA0 /* Brisc_db.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Brisc_db.txt; sourceTree = "<group>"; };
+		6BC5D08F1930424300FC9CA0 /* Brisc_detect.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = Brisc_detect.txt; sourceTree = "<group>"; };
+		6BC5D0901930424300FC9CA0 /* buf.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = buf.txt; sourceTree = "<group>"; };
+		6BC5D0911930424300FC9CA0 /* buffer.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = buffer.cpp; sourceTree = "<group>"; };
+		6BC5D0921930424300FC9CA0 /* cmake_install.cmake */ = {isa = PBXFileReference; lastKnownFileType = text; path = cmake_install.cmake; sourceTree = "<group>"; };
+		6BC5D0931930424300FC9CA0 /* CMakeCache.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeCache.txt; sourceTree = "<group>"; };
+		6BC5D0941930424300FC9CA0 /* CMakeFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CMakeFiles; sourceTree = "<group>"; };
+		6BC5D0951930424300FC9CA0 /* CMakeLists.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeLists.txt; sourceTree = "<group>"; };
+		6BC5D0961930424300FC9CA0 /* CMakeLists1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = CMakeLists1.txt; sourceTree = "<group>"; };
+		6BC5D0971930424300FC9CA0 /* Debug */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Debug; sourceTree = "<group>"; };
+		6BC5D0981930424300FC9CA0 /* eclipse_start */ = {isa = PBXFileReference; lastKnownFileType = folder; path = eclipse_start; sourceTree = "<group>"; };
+		6BC5D0991930424300FC9CA0 /* exemple.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = exemple.txt; sourceTree = "<group>"; };
+		6BC5D09A1930424300FC9CA0 /* Fusion.cpp  */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Fusion.cpp "; sourceTree = "<group>"; };
+		6BC5D09B1930424300FC9CA0 /* Fusion1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Fusion1.cpp; sourceTree = "<group>"; };
+		6BC5D09C1930424300FC9CA0 /* Fusion1.cpp  */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Fusion1.cpp "; sourceTree = "<group>"; };
+		6BC5D09D1930424300FC9CA0 /* Fusion1.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = Fusion1.o; sourceTree = "<group>"; };
+		6BC5D09E1930424300FC9CA0 /* fusion2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = fusion2.cpp; sourceTree = "<group>"; };
+		6BC5D09F1930424300FC9CA0 /* fusion2.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "fusion2.cpp~"; sourceTree = "<group>"; };
+		6BC5D0A01930424300FC9CA0 /* GeometricUtils.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GeometricUtils.cpp; sourceTree = "<group>"; };
+		6BC5D0A11930424300FC9CA0 /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpg; sourceTree = "<group>"; };
+		6BC5D0A21930424300FC9CA0 /* isInSector.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = isInSector.cpp; sourceTree = "<group>"; };
+		6BC5D0A31930424300FC9CA0 /* linuxmagazine */ = {isa = PBXFileReference; lastKnownFileType = folder; path = linuxmagazine; sourceTree = "<group>"; };
+		6BC5D0A41930424300FC9CA0 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		6BC5D0A51930424300FC9CA0 /* mako.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = mako.sh; sourceTree = "<group>"; };
+		6BC5D0A61930424300FC9CA0 /* MATLAB */ = {isa = PBXFileReference; lastKnownFileType = folder; path = MATLAB; sourceTree = "<group>"; };
+		6BC5D0A71930424300FC9CA0 /* michel */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = michel; sourceTree = "<group>"; };
+		6BC5D0A81930424300FC9CA0 /* michel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = michel.cpp; sourceTree = "<group>"; };
+		6BC5D0A91930424300FC9CA0 /* michel.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = michel.dSYM; sourceTree = "<group>"; };
+		6BC5D0AA1930424300FC9CA0 /* monocularv.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = monocularv.cpp; sourceTree = "<group>"; };
+		6BC5D0AB1930424300FC9CA0 /* MyProject.komodoproject */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = MyProject.komodoproject; sourceTree = "<group>"; };
+		6BC5D0AC1930424300FC9CA0 /* pcd_write.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = pcd_write.cpp; sourceTree = "<group>"; };
+		6BC5D0AD1930424300FC9CA0 /* pcd_write_test */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = pcd_write_test; sourceTree = "<group>"; };
+		6BC5D0AE1930424300FC9CA0 /* pcl */ = {isa = PBXFileReference; lastKnownFileType = folder; path = pcl; sourceTree = "<group>"; };
+		6BC5D0AF1930424300FC9CA0 /* Release */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Release; sourceTree = "<group>"; };
+		6BC5D0B01930424300FC9CA0 /* RemoteSystemsTempFiles */ = {isa = PBXFileReference; lastKnownFileType = folder; path = RemoteSystemsTempFiles; sourceTree = "<group>"; };
+		6BC5D0B11930424300FC9CA0 /* ResPiro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ResPiro.jpg; sourceTree = "<group>"; };
+		6BC5D0B21930424300FC9CA0 /* RFID.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RFID.h; sourceTree = "<group>"; };
+		6BC5D0B31930424300FC9CA0 /* rfidTests */ = {isa = PBXFileReference; lastKnownFileType = folder; path = rfidTests; sourceTree = "<group>"; };
+		6BC5D0B41930424300FC9CA0 /* robot.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = robot.cpp; sourceTree = "<group>"; };
+		6BC5D0B51930424300FC9CA0 /* robot.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "robot.cpp~"; sourceTree = "<group>"; };
+		6BC5D0B61930424300FC9CA0 /* robot.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = robot.h; sourceTree = "<group>"; };
+		6BC5D0B71930424300FC9CA0 /* robot.o */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.objfile"; path = robot.o; sourceTree = "<group>"; };
+		6BC5D0B81930424300FC9CA0 /* robot_razi */ = {isa = PBXFileReference; lastKnownFileType = folder; path = robot_razi; sourceTree = "<group>"; };
+		6BC5D0B91930424300FC9CA0 /* run */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = run; sourceTree = "<group>"; };
+		6BC5D0BA1930424300FC9CA0 /* run.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = run.cpp; sourceTree = "<group>"; };
+		6BC5D0BB1930424300FC9CA0 /* run.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "run.cpp~"; sourceTree = "<group>"; };
+		6BC5D0BC1930424300FC9CA0 /* run.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; path = run.dSYM; sourceTree = "<group>"; };
+		6BC5D0BD1930424300FC9CA0 /* sterio_interpretation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sterio_interpretation.cpp; sourceTree = "<group>"; };
+		6BC5D0BE1930424300FC9CA0 /* surf_db.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = surf_db.txt; sourceTree = "<group>"; };
+		6BC5D0BF1930424300FC9CA0 /* test */ = {isa = PBXFileReference; lastKnownFileType = text; path = test; sourceTree = "<group>"; };
+		6BC5D0C01930424300FC9CA0 /* test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test.cpp; sourceTree = "<group>"; };
+		6BC5D0C11930424300FC9CA0 /* test.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test.cpp~"; sourceTree = "<group>"; };
+		6BC5D0C21930424300FC9CA0 /* test.java */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.java; path = test.java; sourceTree = "<group>"; };
+		6BC5D0C31930424300FC9CA0 /* test.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test.txt; sourceTree = "<group>"; };
+		6BC5D0C41930424300FC9CA0 /* test0.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test0.cpp; sourceTree = "<group>"; };
+		6BC5D0C51930424300FC9CA0 /* test0.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "test0.cpp~"; sourceTree = "<group>"; };
+		6BC5D0C61930424300FC9CA0 /* test1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test1.cpp; sourceTree = "<group>"; };
+		6BC5D0C71930424300FC9CA0 /* test1.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test1.txt; sourceTree = "<group>"; };
+		6BC5D0C81930424300FC9CA0 /* test2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test2.cpp; sourceTree = "<group>"; };
+		6BC5D0C91930424300FC9CA0 /* test2.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = test2.txt; sourceTree = "<group>"; };
+		6BC5D0CA1930424300FC9CA0 /* test_pcd.pcd */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_pcd.pcd; sourceTree = "<group>"; };
+		6BC5D0CB1930424300FC9CA0 /* testeMonCode.cpp  */ = {isa = PBXFileReference; lastKnownFileType = text; path = "testeMonCode.cpp "; sourceTree = "<group>"; };
+		6BC5D0CC1930424300FC9CA0 /* testeMonCode.cpp ~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "testeMonCode.cpp ~"; sourceTree = "<group>"; };
+		6BC5D0CD1930424300FC9CA0 /* testerMonCode.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = testerMonCode.cpp; sourceTree = "<group>"; };
+		6BC5D0CE1930424300FC9CA0 /* testerMonCode.cpp  */ = {isa = PBXFileReference; lastKnownFileType = text; path = "testerMonCode.cpp "; sourceTree = "<group>"; };
+		6BC5D0CF1930424300FC9CA0 /* testerMonCode.cpp ~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "testerMonCode.cpp ~"; sourceTree = "<group>"; };
+		6BC5D0D01930424300FC9CA0 /* Utilities.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Utilities.cpp; sourceTree = "<group>"; };
+		6BC5D0D11930424300FC9CA0 /* Utilities.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Utilities.cpp~"; sourceTree = "<group>"; };
+		6BC5D0D21930424300FC9CA0 /* views */ = {isa = PBXFileReference; lastKnownFileType = folder; path = views; sourceTree = "<group>"; };
+		6BC5D0D31930424300FC9CA0 /* Vision.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Vision.cpp; sourceTree = "<group>"; };
+		6BC5D0D41930424300FC9CA0 /* Vision.cpp~ */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Vision.cpp~"; sourceTree = "<group>"; };
+		6BC5D0D51930424300FC9CA0 /* Vision.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Vision.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6BC5D07C1930424300FC9CA0 = {
+			isa = PBXGroup;
+			children = (
+				6BC5D0821930424300FC9CA0 /* #ax11_style.cpp# */,
+				6BC5D0831930424300FC9CA0 /* #fusion2.cpp# */,
+				6BC5D0841930424300FC9CA0 /* #robot.cpp# */,
+				6BC5D0851930424300FC9CA0 /* #test.cpp# */,
+				6BC5D0861930424300FC9CA0 /* #testerMonCode.cpp # */,
+				6BC5D0871930424300FC9CA0 /* .DS_Store */,
+				6BC5D0881930424300FC9CA0 /* a.out */,
+				6BC5D0891930424300FC9CA0 /* ax11_style.cpp */,
+				6BC5D08A1930424300FC9CA0 /* ax11_style.cpp  */,
+				6BC5D08B1930424300FC9CA0 /* ax11_style.cpp~ */,
+				6BC5D08C1930424300FC9CA0 /* BagOfFeatures.cpp */,
+				6BC5D08D1930424300FC9CA0 /* BagOfFeatures.h */,
+				6BC5D08E1930424300FC9CA0 /* Brisc_db.txt */,
+				6BC5D08F1930424300FC9CA0 /* Brisc_detect.txt */,
+				6BC5D0901930424300FC9CA0 /* buf.txt */,
+				6BC5D0911930424300FC9CA0 /* buffer.cpp */,
+				6BC5D0921930424300FC9CA0 /* cmake_install.cmake */,
+				6BC5D0931930424300FC9CA0 /* CMakeCache.txt */,
+				6BC5D0941930424300FC9CA0 /* CMakeFiles */,
+				6BC5D0951930424300FC9CA0 /* CMakeLists.txt */,
+				6BC5D0961930424300FC9CA0 /* CMakeLists1.txt */,
+				6BC5D0971930424300FC9CA0 /* Debug */,
+				6BC5D0981930424300FC9CA0 /* eclipse_start */,
+				6BC5D0991930424300FC9CA0 /* exemple.txt */,
+				6BC5D09A1930424300FC9CA0 /* Fusion.cpp  */,
+				6BC5D09B1930424300FC9CA0 /* Fusion1.cpp */,
+				6BC5D09C1930424300FC9CA0 /* Fusion1.cpp  */,
+				6BC5D09D1930424300FC9CA0 /* Fusion1.o */,
+				6BC5D09E1930424300FC9CA0 /* fusion2.cpp */,
+				6BC5D09F1930424300FC9CA0 /* fusion2.cpp~ */,
+				6BC5D0A01930424300FC9CA0 /* GeometricUtils.cpp */,
+				6BC5D0A11930424300FC9CA0 /* images.jpg */,
+				6BC5D0A21930424300FC9CA0 /* isInSector.cpp */,
+				6BC5D0A31930424300FC9CA0 /* linuxmagazine */,
+				6BC5D0A41930424300FC9CA0 /* Makefile */,
+				6BC5D0A51930424300FC9CA0 /* mako.sh */,
+				6BC5D0A61930424300FC9CA0 /* MATLAB */,
+				6BC5D0A71930424300FC9CA0 /* michel */,
+				6BC5D0A81930424300FC9CA0 /* michel.cpp */,
+				6BC5D0A91930424300FC9CA0 /* michel.dSYM */,
+				6BC5D0AA1930424300FC9CA0 /* monocularv.cpp */,
+				6BC5D0AB1930424300FC9CA0 /* MyProject.komodoproject */,
+				6BC5D0AC1930424300FC9CA0 /* pcd_write.cpp */,
+				6BC5D0AD1930424300FC9CA0 /* pcd_write_test */,
+				6BC5D0AE1930424300FC9CA0 /* pcl */,
+				6BC5D0AF1930424300FC9CA0 /* Release */,
+				6BC5D0B01930424300FC9CA0 /* RemoteSystemsTempFiles */,
+				6BC5D0B11930424300FC9CA0 /* ResPiro.jpg */,
+				6BC5D0B21930424300FC9CA0 /* RFID.h */,
+				6BC5D0B31930424300FC9CA0 /* rfidTests */,
+				6BC5D0B41930424300FC9CA0 /* robot.cpp */,
+				6BC5D0B51930424300FC9CA0 /* robot.cpp~ */,
+				6BC5D0B61930424300FC9CA0 /* robot.h */,
+				6BC5D0B71930424300FC9CA0 /* robot.o */,
+				6BC5D0B81930424300FC9CA0 /* robot_razi */,
+				6BC5D0B91930424300FC9CA0 /* run */,
+				6BC5D0BA1930424300FC9CA0 /* run.cpp */,
+				6BC5D0BB1930424300FC9CA0 /* run.cpp~ */,
+				6BC5D0BC1930424300FC9CA0 /* run.dSYM */,
+				6BC5D0BD1930424300FC9CA0 /* sterio_interpretation.cpp */,
+				6BC5D0BE1930424300FC9CA0 /* surf_db.txt */,
+				6BC5D0BF1930424300FC9CA0 /* test */,
+				6BC5D0C01930424300FC9CA0 /* test.cpp */,
+				6BC5D0C11930424300FC9CA0 /* test.cpp~ */,
+				6BC5D0C21930424300FC9CA0 /* test.java */,
+				6BC5D0C31930424300FC9CA0 /* test.txt */,
+				6BC5D0C41930424300FC9CA0 /* test0.cpp */,
+				6BC5D0C51930424300FC9CA0 /* test0.cpp~ */,
+				6BC5D0C61930424300FC9CA0 /* test1.cpp */,
+				6BC5D0C71930424300FC9CA0 /* test1.txt */,
+				6BC5D0C81930424300FC9CA0 /* test2.cpp */,
+				6BC5D0C91930424300FC9CA0 /* test2.txt */,
+				6BC5D0CA1930424300FC9CA0 /* test_pcd.pcd */,
+				6BC5D0CB1930424300FC9CA0 /* testeMonCode.cpp  */,
+				6BC5D0CC1930424300FC9CA0 /* testeMonCode.cpp ~ */,
+				6BC5D0CD1930424300FC9CA0 /* testerMonCode.cpp */,
+				6BC5D0CE1930424300FC9CA0 /* testerMonCode.cpp  */,
+				6BC5D0CF1930424300FC9CA0 /* testerMonCode.cpp ~ */,
+				6BC5D0D01930424300FC9CA0 /* Utilities.cpp */,
+				6BC5D0D11930424300FC9CA0 /* Utilities.cpp~ */,
+				6BC5D0D21930424300FC9CA0 /* views */,
+				6BC5D0D31930424300FC9CA0 /* Vision.cpp */,
+				6BC5D0D41930424300FC9CA0 /* Vision.cpp~ */,
+				6BC5D0D51930424300FC9CA0 /* Vision.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		6BC5D0811930424300FC9CA0 /* ph */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 6BC5D0D61930424300FC9CA0 /* Build configuration list for PBXLegacyTarget "ph" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = /Users/younes/Desktop/ph;
+			dependencies = (
+			);
+			name = ph;
+			passBuildSettingsInEnvironment = 1;
+			productName = ph;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		6BC5D07D1930424300FC9CA0 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 6BC5D0801930424300FC9CA0 /* Build configuration list for PBXProject "ph" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6BC5D07C1930424300FC9CA0;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6BC5D0811930424300FC9CA0 /* ph */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		6BC5D07E1930424300FC9CA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		6BC5D07F1930424300FC9CA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		6BC5D0D71930424300FC9CA0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = ph;
+			};
+			name = Debug;
+		};
+		6BC5D0D81930424300FC9CA0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = ph;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6BC5D0801930424300FC9CA0 /* Build configuration list for PBXProject "ph" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BC5D07E1930424300FC9CA0 /* Debug */,
+				6BC5D07F1930424300FC9CA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6BC5D0D61930424300FC9CA0 /* Build configuration list for PBXLegacyTarget "ph" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BC5D0D71930424300FC9CA0 /* Debug */,
+				6BC5D0D81930424300FC9CA0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6BC5D07D1930424300FC9CA0 /* Project object */;
+}
