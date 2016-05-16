@@ -1,16 +1,9 @@
 void  SURFExtractor(IplImage *frame){
- 		// Mat img_1 = image_data;
-			 	  //-- Step 1: Detect the keypoints using SURF Detector
-			  int minHessian = 400;
+ 	 		  int minHessian = 400;
 			  SurfFeatureDetector detector(minHessian);
-		//	  CvMat* prevgray = 0, *image = 0, *gray =0;
+	 
 CvMat* image=0;
-			  //image = cvCreateMat(frame->height, frame->width, CV_8UC1);
-	// IplImage* grayframe = cvCreateImage(cvGetSize(frame), IPL_DEPTH_8U, 1);
-		//	  CvMemStorage* storage = cvCreateMemStorage(0);
-		//	  cvCvtColor(frame, image, CV_BGR2GRAY);
-			    //cvCvtColor(framett, grayframe, CV_RGB2GRAY);
- 	//  detector.detect( framett, keypoints_1 );
+
 			   int Threshl=40;
 			   int Octaves=2;
 			   float PatternScales=1.0f;
