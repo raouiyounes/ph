@@ -1,4 +1,4 @@
-int Image::SURFExtractor(IplImage* frame){
+int Image::SURFExtractor(IplImage* frame,int nb_of_features){
 	//  Mat img_1 = image_data;
 	 	  //-- Step 1: Detect the keypoints using SURF Detector
 	  int minHessian = 400;
@@ -24,7 +24,7 @@ vector<double> descriptor_row;
 	j=0;
 int dim=50;
 	// changer dim pour obtenir plus de features
-	while(j<dim){
+	while(j<nb_of_features){
 descriptor_row.push_back(*r);
 	r++;
 	j++;
