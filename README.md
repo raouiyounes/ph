@@ -24,3 +24,8 @@ docker compose up workshop
 therobocademy/ros2_nvidia_workshop:latest
 
 docker exec -it isaac-sim bash
+
+
+chmod -R 777 ~/docker/isaac-sim
+
+./scripts/launch_isaac_sim.sh
